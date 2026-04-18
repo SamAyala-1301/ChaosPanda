@@ -21,3 +21,11 @@
 # Secrets
 secrets/
 *.key
+experiments.db
+*.db
+__pycache__/
+*.pyc
+.env
+infra/aws/.terraform/
+infra/aws/*.tfstate
+infra/aws/*.tfstate.backup
